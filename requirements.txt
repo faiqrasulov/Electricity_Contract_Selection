@@ -1,0 +1,7 @@
+import numpy as np #numpy for scientific computing
+import pandas as pd #pandas for data cleaning and analysis
+
+import re # sequence of characters that forms a search pattern
+import datetime # supplies classes to work with date and time
+
+import matplotlib.pyplot as plt #for plotting 
